@@ -11,11 +11,11 @@ const nickingnova {
   tools: [ HTML, CSS, JavaScript, Sass, Git],
 }
 ```
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-<p>
+<p> -->
   
 <!--   
 <a href="https://codesandbox.io/u/anuraghazra">
