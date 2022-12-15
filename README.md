@@ -8,7 +8,7 @@
 const nickingnova {
   professions: [ Electronic Enginner, Software Devoloper, Blockchain Student ]
   technologies: 'web',
-  tools: [ HTML, CSS, JavaScript, Sass, Git],
+  tools: [ HTML, CSS, JavaScript, Sass, Git, Python, React],
 }
 ```
 <!-- <p align="center">
